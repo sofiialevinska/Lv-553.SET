@@ -1,4 +1,4 @@
-﻿using System;
+﻿Lv - 553.SETgusing System;
 
 namespace helloworld
 {
@@ -7,6 +7,8 @@ namespace helloworld
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Sofiia");
+            Console.WriteLine("Sofiia2");
         }
     }
 }
