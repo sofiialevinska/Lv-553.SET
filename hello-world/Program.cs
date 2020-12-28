@@ -11,6 +11,7 @@ namespace helloworld
             Console.WriteLine("Sofiia2");
             Console.WriteLine("Hello World!(Bohdan)");
             Console.WriteLine("Mykhailo1");
+            Console.WriteLine("Oksana");
         }
     }
 }
