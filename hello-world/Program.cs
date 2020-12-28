@@ -1,4 +1,4 @@
-﻿Lv - 553.SETgusing System;
+﻿using System;
 
 namespace helloworld
 {
@@ -9,6 +9,8 @@ namespace helloworld
             Console.WriteLine("Hello World!");
             Console.WriteLine("Sofiia");
             Console.WriteLine("Sofiia2");
+            Console.WriteLine("Mykhailo1");
+
         }
     }
 }
